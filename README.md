@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm  Oindrila 👋
 
-<!--
-**oindrilakha12-ui/oindrilakha12-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student
+🌱Currently learning Linux,Git,Github & open source
+🚀 Preparing for LFX mentorship program
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Git & GitHub
+- HTML,CSS,Javascript
+- python
+- Linux Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🎯 Current Focus
+ - Understanding Open Source contribution Workflows
+ - Preparing for LFX Mentorship
+
+##📌 Goals
+ - Make consistent open source contributions
+ - Get selected for LFX
+ - Improve Problem solving & documentation skills
