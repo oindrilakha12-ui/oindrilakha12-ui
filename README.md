@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=2800&pause=900&color=FF1493&center=true&vCenter=true&width=700&height=120&lines=%F0%9F%92%96+Hi%2C+I'm+Oindrila+Khan+%F0%9F%92%96;%E2%9C%A8+Building+Data-Driven+Applications+%E2%9C%A8;%F0%9F%8C%B8+Open+Source+%26+AI%2FML+Enthusiast" alt="Typing SVG" />
 </p>
 
-<br>
-
-<img src="/girlCoder.gif" width="400" alt="coding gif"/>
+<img src="https://github.com/oindrilakha12-ui/oindrilakha12-ui/blob/main/girl%20coder.gif" width="400" alt="coding gif"/>
 
 <br><br>
 
@@ -102,11 +100,11 @@
 
 <br>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oindrilakha12-ui&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oindrilakha12-ui&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 
 
@@ -115,7 +113,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling"/>
-
 </div>
