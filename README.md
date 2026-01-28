@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="/girCoder.gif" width="400" alt="coding gif"/>
+<img src="/girlCoder.gif" width="400" alt="coding gif"/>
 
 <br><br>
 
