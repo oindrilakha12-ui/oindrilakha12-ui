@@ -1,9 +1,13 @@
-<div align="center">
-<h1>Hi 👋, I'm Oindrila Khan</h1>
-<h3>Building Data-Driven Applications | AI/ML Enthusiast</h3>
- <img src ="https://github.com/user-attachments/assets/5aef53db-7201-4ce5-90cb-c7c17e8a926d"/>
- <img src = "271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif"/>
- 
+
+ <div align="center">
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&duration=2800&pause=900&color=FF1493&center=true&vCenter=true&width=700&height=120&lines=%F0%9F%92%96+Hi%2C+I'm+Oindrila+Khan+%F0%9F%92%96;%E2%9C%A8+Building+Data-Driven+Applications+%E2%9C%A8;%F0%9F%8C%B8+Open+Source+%26+AI%2FML+Enthusiast" alt="Typing SVG" />
+</p>
+
+<br>
+
+<img src="271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif" width="400" alt="coding gif"/>
+
 <br><br>
 
 <h3>💌 Connect With Me</h3>
