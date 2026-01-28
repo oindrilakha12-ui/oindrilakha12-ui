@@ -91,48 +91,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌸 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>📊 Data Analysis Dashboard</h3>
-<a href="https://github.com/oindrilakha12-ui"><img src="https://img.shields.io/badge/Code-💜-FFB6C1?style=for-the-badge&logo=github"/></a>
-<br><br>
-<p><strong>Python • Pandas • Plotly</strong></p>
-<p>Interactive dashboard for visualizing real-world datasets</p>
-</td>
-<td width="50%" align="center">
-<h3>🤖 ML Classification Model</h3>
-<a href="https://github.com/oindrilakha12-ui"><img src="https://img.shields.io/badge/Code-💜-E0BBE4?style=for-the-badge&logo=github"/></a>
-<br><br>
-<p><strong>Python • Scikit-learn</strong></p>
-<p>Predictive models using supervised learning algorithms</p>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<h3>🌐 Portfolio Website</h3>
-<a href="https://github.com/oindrilakha12-ui"><img src="https://img.shields.io/badge/Code-💜-DDA0DD?style=for-the-badge&logo=github"/></a>
-<br><br>
-<p><strong>React • CSS3 • JavaScript</strong></p>
-<p>Personal portfolio showcasing projects and skills</p>
-</td>
-<td width="50%" align="center">
-<h3>📝 Task Management API</h3>
-<a href="https://github.com/oindrilakha12-ui"><img src="https://img.shields.io/badge/Code-💜-C1E1C1?style=for-the-badge&logo=github"/></a>
-<br><br>
-<p><strong>Node.js • Express • MongoDB</strong></p>
-<p>RESTful API for managing tasks and workflows</p>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💫 GitHub Stats
 
@@ -149,17 +108,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=oindrilakha12-ui&theme=dracula&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
 
 ### 💭 Random Dev Quote
 
