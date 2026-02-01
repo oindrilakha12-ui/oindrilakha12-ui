@@ -85,31 +85,7 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-## 💫 GitHub Stats
-
-💫 GitHub Stats
-
-<div align="center">
-  
-<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=oindrilakha12-ui&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=ff69b4&icon_color=ff69b4&text_color=ffc0cb" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=oindrilakha12-ui&theme=radical&hide_border=true&background=0d1117&stroke=ff69b4&ring=ff69b4&fire=ff69b4&currStreakNum=ffc0cb&sideNums=ffc0cb&currStreakLabel=ffc0cb&sideLabels=ffc0cb&dates=ffc0cb" />
-
-<br>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oindrilakha12-ui&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff69b4&text_color=ffc0cb" /> -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oindrilakha12-ui&show_icons=true&theme=rose_pine&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=oindrilakha12-ui&theme=rose_pine&hide_border=true)
-
-</div>
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
            
-
-
-
 ### 💭 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
