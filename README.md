@@ -5,7 +5,7 @@
 </p>
 <img src="https://github.com/oindrilakha12-ui/oindrilakha12-ui/blob/main/girl%20coder.gif" width="400" alt="coding gif"/>
 
-<h3>💌 Connect\ With Me</h3>
+<h3>💌 Connect With Me</h3>
 <p>
   <a href="https://linkedin.com/in/oindrila-khan-776a56375">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
